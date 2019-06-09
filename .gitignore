@@ -1,0 +1,7 @@
+*.iml
+*.directory
+*target
+*out
+*app
+.idea
+web.xml
